@@ -11,7 +11,7 @@ Este espacio será nuestro punto central de desarrollo para el proyecto, en conj
 - **Contacto adicional:** @ProgramandoConJorge
 - **Integrantes:** *(añadir nombres y usuarios de GitHub aquí)*
     - Andres (@andrestadeo23 en GitHub)
-    - Tadeo ()
+    - Tadeo (@TadeoPG en GitHub)
     - Juan (@juanmedina100 en GitHub)
 
 ---
