@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/recommendation_db  # tu BD
     username: postgres      # tú lusuario de bd
-    password: postgres123   # tú contraseña de bd
+    password: 12345 #postgres123   # tú contraseña de bd
     driver-class-name: org.postgresql.Driver
 
   jpa:
@@ -16,6 +16,11 @@ spring:
       hibernate:
         format_sql: true
         dialect: org.hibernate.dialect.PostgreSQLDialect
+
+  sql:
+    init:
+      mode: always
+
 
   springdoc:
     api-docs:

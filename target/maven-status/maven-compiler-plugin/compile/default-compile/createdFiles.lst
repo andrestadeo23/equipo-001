@@ -1,1 +1,8 @@
+com\bytescolaborativos\eq01\recommendation_engine\model\UserRole.class
+com\bytescolaborativos\eq01\recommendation_engine\model\Recomendation.class
+com\bytescolaborativos\eq01\recommendation_engine\model\User.class
+com\bytescolaborativos\eq01\recommendation_engine\model\TournamentStatus.class
+com\bytescolaborativos\eq01\recommendation_engine\repository\UserRepository.class
 com\bytescolaborativos\eq01\recommendation_engine\RecommendationEngineApplication.class
+com\bytescolaborativos\eq01\recommendation_engine\model\Rating.class
+com\bytescolaborativos\eq01\recommendation_engine\model\Product.class
